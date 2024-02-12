@@ -3,8 +3,6 @@ opencv-python
 Pillow
 numpy
 torch
-torch-scatter
-torch-sparse
 torchvision
 torch-geometric
 matplotlib
